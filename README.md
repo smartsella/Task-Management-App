@@ -1,16 +1,65 @@
-# React + Vite
+# Task Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web-based **Task Management Application** built using **React** for the frontend and **Node.js with Express** for the backend.  
+This project was developed as part of an assessment to demonstrate frontend UI development and backend clean code structure.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo (Frontend)
+https://smartsella.github.io/Task-Management-App/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📂 GitHub Repository
+https://github.com/smartsella/Task-Management-Application
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+
+---
+
+## 📌 Project Overview
+
+The Task Management Application helps users manage tasks through a clean and user-friendly interface. The project is divided into frontend and backend modules to follow proper separation of concerns.
+
+- The **frontend** focuses on UI, component structure, and task handling.
+- The **backend** focuses on API structure, controllers, and validation logic.
+
+---
+
+## 🎨 Frontend Features
+
+- Built completely using **React**
+- Clean and responsive UI
+- Component-based architecture
+- Task listing and UI-level task handling
+- Deployed using **GitHub Pages**
+
+⚠️ **Note:**  
+The frontend works independently and is **not connected to the backend** in this implementation.
+
+---
+
+## ⚙️ Backend Features
+
+- Built using **Node.js and Express**
+- Clean folder structure
+- Controller-based architecture
+- Request validation logic
+- Ready for future frontend and database integration
+
+⚠️ **Note:**  
+The backend is implemented separately and currently **not integrated with the frontend**.
+
+---
